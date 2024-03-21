@@ -1,0 +1,3 @@
+Name: Rustam 
+Age: 15 
+Telephone number: 700890032
